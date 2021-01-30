@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "PuzzleDemoEditor Editor Win64 Development (PuzzleDemo)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\carni\\Documents\\GitHub\\Puzzle-Prototype\\PuzzleDemo\\.vscode\\compileCommands_PuzzleDemo.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

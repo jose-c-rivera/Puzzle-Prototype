@@ -1,0 +1,17 @@
+C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Intermediate\Build\Win64\UE4Editor\Development\PuzzleDemo\Definitions.PuzzleDemo.h
+C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Source\PuzzleDemo\PuzzleDemoPawn.h
+C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleDemo\PuzzleDemoPawn.generated.h
+C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Source\PuzzleDemo\PuzzleDemoBlock.h
+C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleDemo\PuzzleDemoBlock.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayTypes.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IIdentifiableXRDevice.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\IIdentifiableXRDevice.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\XRGestureConfig.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\XRGestureConfig.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay\HeadMountedDisplayFunctionLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h

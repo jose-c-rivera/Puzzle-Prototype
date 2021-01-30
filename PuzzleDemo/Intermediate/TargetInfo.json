@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PuzzleDemo",
+			"Path": "C:\\Users\\carni\\Documents\\GitHub\\Puzzle-Prototype\\PuzzleDemo\\Source\\PuzzleDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PuzzleDemoEditor",
+			"Path": "C:\\Users\\carni\\Documents\\GitHub\\Puzzle-Prototype\\PuzzleDemo\\Source\\PuzzleDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
