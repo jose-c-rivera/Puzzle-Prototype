@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "PuzzleDemoBlock.h"
 #include "PuzzleDemoBlockGrid.generated.h"
 
 /** Class used to spawn blocks and manage score */
@@ -38,6 +39,11 @@ protected:
 	// Begin AActor interface
 	virtual void BeginPlay() override;
 	// End AActor interface
+
+private:
+	void Tick();
+
+	TArray<APuzzleDemoBlock>* BlocksInScene;
 
 public:
 

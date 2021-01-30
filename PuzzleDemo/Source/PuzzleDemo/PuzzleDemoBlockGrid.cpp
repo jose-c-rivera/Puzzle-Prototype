@@ -3,6 +3,7 @@
 #include "PuzzleDemoBlockGrid.h"
 #include "PuzzleDemoBlock.h"
 #include "Components/TextRenderComponent.h"
+#include "Kismet/GameplayStatics.h"
 #include "Engine/World.h"
 
 #define LOCTEXT_NAMESPACE "PuzzleBlockGrid"
@@ -50,6 +51,16 @@ void APuzzleDemoBlockGrid::BeginPlay()
 		{
 			NewBlock->OwningGrid = this;
 		}
+	}
+
+	UGameplayStatics::GetAllActorsOfClass(GetWorld(), APuzzleDemoBlock::StaticClass(), *BlocksInScene);
+}
+
+void APuzzleDemoBlockGrid::Tick() 
+{
+	for(APuzzleDemoBlock* Block : *BlocksInScene)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Priting Block id:  %s"), Block->GetActorLabel());
 	}
 }
 

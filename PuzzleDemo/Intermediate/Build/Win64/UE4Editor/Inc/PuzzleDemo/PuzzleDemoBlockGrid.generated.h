@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PUZZLEDEMO_PuzzleDemoBlockGrid_generated_h
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_SPARSE_DATA
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_RPC_WRAPPERS
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_INCLASS_NO_PURE_DECLS \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_SPARSE_DATA
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_RPC_WRAPPERS
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPuzzleDemoBlockGrid(); \
 	friend struct Z_Construct_UClass_APuzzleDemoBlockGrid_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(APuzzleDemoBlockGrid)
 
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_INCLASS \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesAPuzzleDemoBlockGrid(); \
 	friend struct Z_Construct_UClass_APuzzleDemoBlockGrid_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(APuzzleDemoBlockGrid)
 
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_STANDARD_CONSTRUCTORS \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	PUZZLEDEMO_API APuzzleDemoBlockGrid(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APuzzleDemoBlockGrid) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_ENHANCED_CONSTRUCTORS \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	PUZZLEDEMO_API APuzzleDemoBlockGrid(APuzzleDemoBlockGrid&&); \
@@ -58,32 +58,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APuzzleDemoBlockGrid); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APuzzleDemoBlockGrid)
 
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_PRIVATE_PROPERTY_OFFSET \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__DummyRoot() { return STRUCT_OFFSET(APuzzleDemoBlockGrid, DummyRoot); } \
 	FORCEINLINE static uint32 __PPO__ScoreText() { return STRUCT_OFFSET(APuzzleDemoBlockGrid, ScoreText); }
 
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_10_PROLOG
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_GENERATED_BODY_LEGACY \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_11_PROLOG
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_PRIVATE_PROPERTY_OFFSET \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_SPARSE_DATA \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_RPC_WRAPPERS \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_INCLASS \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_STANDARD_CONSTRUCTORS \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_PRIVATE_PROPERTY_OFFSET \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_SPARSE_DATA \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_RPC_WRAPPERS \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_INCLASS \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_GENERATED_BODY \
+#define PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_PRIVATE_PROPERTY_OFFSET \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_SPARSE_DATA \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_INCLASS_NO_PURE_DECLS \
-	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_13_ENHANCED_CONSTRUCTORS \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_PRIVATE_PROPERTY_OFFSET \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_SPARSE_DATA \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_INCLASS_NO_PURE_DECLS \
+	PuzzleDemo_Source_PuzzleDemo_PuzzleDemoBlockGrid_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

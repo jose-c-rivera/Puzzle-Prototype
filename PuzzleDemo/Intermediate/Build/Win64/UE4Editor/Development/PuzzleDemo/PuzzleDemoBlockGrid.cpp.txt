@@ -1,7 +1,0 @@
-C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Intermediate\Build\Win64\UE4Editor\Development\PuzzleDemo\Definitions.PuzzleDemo.h
-C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Source\PuzzleDemo\PuzzleDemoBlockGrid.h
-C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleDemo\PuzzleDemoBlockGrid.generated.h
-C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Source\PuzzleDemo\PuzzleDemoBlock.h
-C:\Users\carni\Documents\GitHub\Puzzle-Prototype\PuzzleDemo\Intermediate\Build\Win64\UE4Editor\Inc\PuzzleDemo\PuzzleDemoBlock.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
